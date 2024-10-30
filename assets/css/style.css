@@ -1,0 +1,13 @@
+
+
+@media only screen and (max-width: 768px) {
+    .bg-color-info{
+        background-color: rgb(47, 47, 89);
+    }
+  }
+
+@media only screen and (max-width: 576px) {
+    .bg-color-info{
+        background-color:rgb(47, 47, 89);
+    }
+  }
